@@ -13,6 +13,8 @@ Hey guys, winter is finally here and so is adventofcode. For those who don't kno
 - [x] Day 3
 - [ ] Day 4
 - [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
 
 ## How can you use my script? 
 You just need to have python installed on your computer, if you do you can easily run my scripts. I don't think i would be using any modules but check the readme file just in case :) 
