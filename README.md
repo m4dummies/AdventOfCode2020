@@ -4,7 +4,7 @@
 
 Hey guys, winter is finally here and so is adventofcode. For those who don't know what adventofcode is, its a simple challenge for developers and programmers of all kind. They post challenges everyday for you to solve. It's a fun challenge and very useful for beginners. Good luck and I hope i could help.
 
-<img src="aoc.png" alt="image" width="200"/>
+<img src="aoc.png" alt="image" width="350"/>
 
 ### Current Status
 
